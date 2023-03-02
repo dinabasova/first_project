@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 1440px;
+    min-height: 848px;
+    background: white;
+}
+
+.d_header{
+    width: 1440px;
+    min-height: 150px;
+    background: yellowgreen;
+    padding: 20px;
+    float: left;
+}
+
+.d_body{
+    width: 1440px;
+    min-height: 528px;
+}
+
+.d_nav{
+    width: 200px;
+    min-height: 688px;
+    background: yellowgreen;
+    padding: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+.d_article{
+    width: 1020px;
+    min-height: inherit;
+    background: yellowgreen;
+    padding: 20px;
+    float: left;
+    margin: 10px 10px;
+}
+
+.d_ads{
+    width: 200px;
+    min-height: inherit;
+    background: yellowgreen;
+    padding: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+.d_footer{
+    width: 1230px;
+    min-height: 150px;
+    background: yellowgreen;
+    padding: 20px;
+    float: left;
+    margin-left: 10px;
+}
+
